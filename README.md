@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Olusegun Olukayode
 
-<!--
-**Olu-segun/Olu-segun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Data & Analytics Engineer | Business Intelligence Analyst  
+🔍 Turning Data into Business Insights  
+📍 Lagos, Nigeria
 
-Here are some ideas to get you started:
+### 🚀 Skills & Tools
+- SQL • Power BI • Python • dbt
+- Apache Airflow • PostgreSQL • Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Projects
+- [Wikipedia Pageview Data Pipeline](https://github.com/olukayode/Wikipedia-Pageview-Data-Pipeline)
+- [More on my GitHub](https://github.com/olukayode)
+
+### 📫 Connect with me
+- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- LinkedIn: [linkedin.com/in/olukayode](https://linkedin.com/in/olukayode)
