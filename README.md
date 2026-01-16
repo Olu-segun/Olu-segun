@@ -10,8 +10,8 @@
 
 ### 📁 Projects
 - [Wikipedia Pageview Data Pipeline](https://github.com/olukayode/Wikipedia-Pageview-Data-Pipeline)
-- [More on my GitHub](https://github.com/olukayode)
+- [More on my GitHub](https://github.com/Olu-segun?tab=repositories)
 
 ### 📫 Connect with me
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- LinkedIn: [linkedin.com/in/olukayode](https://linkedin.com/in/olukayode)
+- Portfolio: [yourportfolio.com](https://github.com/Olu-segun?tab=repositories)
+- LinkedIn: [linkedin.com/in/olukayode](https://www.linkedin.com/in/olukayodeolusegun/)
