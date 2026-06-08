@@ -18,13 +18,13 @@ Data professional with 6+ years of experience in fintech and financial services.
 
 Currently building end-to-end data platforms using:
 
-Python
-SQL
-Airflow
-dbt
-Snowflake
-Docker
-PostgreSQL
+- Python
+- SQL
+- Airflow
+- dbt
+- Snowflake
+- Docker
+- PostgreSQL
 
 ### 📁 Projects
 - [Wikipedia Pageview Data Pipeline](https://github.com/olukayode/Wikipedia-Pageview-Data-Pipeline)
