@@ -4,7 +4,7 @@
 📍 Lagos, Nigeria
 📊 Turning Data into Business Insights
 ☁️ Building Modern Data Platforms
-
+---
 # 🚀 *About Me*
 
 Data professional with 6+ years of experience in fintech and financial services. I specialize in:
@@ -25,11 +25,11 @@ Currently building end-to-end data platforms using:
 - Snowflake
 - Docker
 - PostgreSQL
-
-### 📁 Projects
+---
+# 📁 *Projects*
 - [Wikipedia Pageview Data Pipeline](https://github.com/olukayode/Wikipedia-Pageview-Data-Pipeline)
 - [More on my GitHub](https://github.com/Olu-segun?tab=repositories)
 
-### 📫 Connect with me
+# 📫 *Connect with me:*
 - Portfolio: [yourportfolio.com](https://github.com/Olu-segun?tab=repositories)
 - LinkedIn: [linkedin.com/in/olukayode](https://www.linkedin.com/in/olukayodeolusegun/)
