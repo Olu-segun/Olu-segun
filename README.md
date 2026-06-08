@@ -4,6 +4,7 @@
 📍 Lagos, Nigeria
 📊 Turning Data into Business Insights
 ☁️ Building Modern Data Platforms
+
 ---
 # 🚀 *About Me*
 
