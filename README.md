@@ -1,12 +1,30 @@
-# Hi 👋, I'm Olusegun Olukayode
+# Hi 👋, I'm *Olusegun Olukayode*
+💡 Data Analytics & Engineer | Business Intelligence Analyst
 
-💡 Data & Analytics Engineer | Business Intelligence Analyst  
-🔍 Turning Data into Business Insights  
 📍 Lagos, Nigeria
+📊 Turning Data into Business Insights
+☁️ Building Modern Data Platforms
 
-### 🚀 Skills & Tools
-- SQL • Power BI • Python • dbt
-- Apache Airflow • PostgreSQL • Docker
+# 🚀 *About Me*
+
+Data professional with 6+ years of experience in fintech and financial services. I specialize in:
+
+- Data Engineering
+- Analytics Engineering
+- Business Intelligence
+- ETL/ELT Development
+- Data Modeling
+- Dashboard Development
+
+Currently building end-to-end data platforms using:
+
+Python
+SQL
+Airflow
+dbt
+Snowflake
+Docker
+PostgreSQL
 
 ### 📁 Projects
 - [Wikipedia Pageview Data Pipeline](https://github.com/olukayode/Wikipedia-Pageview-Data-Pipeline)
