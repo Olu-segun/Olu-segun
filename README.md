@@ -2,7 +2,9 @@
 💡 Data Analytics & Engineer | Business Intelligence Analyst
 
 📍 Lagos, Nigeria
+
 📊 Turning Data into Business Insights
+
 ☁️ Building Modern Data Platforms
 
 ---
